@@ -18,9 +18,9 @@ Sua tarefa é revisar o escopo, as metas e o relatório de avaliação de risco 
 </a>
 </li>
 <h2> Listas de verificação </h2>
-
-
-
+<li> <a href="https://github.com/Fp-eng/Auditoria-de-Seguran-a/blob/main/_Lista%20de%20verifica%C3%A7%C3%A3o%20de%20controles%20e%20conformidade.md"</li>
+<font style="vertical-align: inherit;">
+<font style="vertical-align: inherit;">Lista de verificação de controles</font>
 
 
 
