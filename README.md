@@ -6,3 +6,7 @@ A gerente do departamento de TI decidiu que uma auditoria interna de TI precisa 
 O gerente de TI começa implementando o National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), estabelecendo um escopo e metas de auditoria, listando ativos atualmente gerenciados pelo departamento de TI e concluindo uma avaliação de risco. O objetivo da auditoria é fornecer uma visão geral dos riscos e/ou multas que a empresa pode enfrentar devido ao estado atual de sua postura de segurança.
 
 Sua tarefa é revisar o escopo, as metas e o relatório de avaliação de risco do gerente de TI. Em seguida, execute uma auditoria interna completando uma lista de verificação de controles e conformidade.
+<h2>Relatório</h2>
+<font style="vertical-align: inherit;">
+<font style="vertical-align: inherit;">Relatório de Escopo, Metas e Avaliação de Riscos</font>
+</font>
