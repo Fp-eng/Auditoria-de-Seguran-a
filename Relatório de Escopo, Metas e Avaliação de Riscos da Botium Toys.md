@@ -34,4 +34,33 @@
 
 ## 4. Lista de Verificação de Controles e Conformidade
 ### Controles de Segurança
-- Atualizações e patches de software (Sim/Não) 
+
+| Controle                           | Implementado (Sim/Não) |
+| -----------------------------------|------------------------|
+| Atualizações e patches de software |  Sim            |
+| Uso de autenticação multifator | Não  |
+| Políticas de backup e recuperação | Sim    |
+| Monitoramento de rede e detecção de intrusão | Não  |
+------------------------------------------------------
+### Conformidade Regulamentar 
+
+| Regulamento | Conformidade (Sim/Não) |
+|--------------|------------------------
+| Conformidade com GDPR | Não |
+| Proteção de dados de pagamento | Sim |
+| Auditorias regulares de segurança | Não |
+
+### Justificativas das Respostas:
+**- Atualizações e patches de software:** Sim, pois a empresa mantém seus sistemas atualizados regularmente.
+
+**- Uso de autenticação multifator:** Não, a autenticação multifator ainda não foi implementada em todos os sistemas.
+
+**- Políticas de backup e recuperação:** Sim, a empresa possui uma política robusta de backups semanais.
+
+**- Monitoramento de rede e detecção de intrusão:** Não, pois não há um sistema automatizado de monitoramento em tempo real.
+
+**- Conformidade com GDPR:** Não, algumas áreas ainda estão em processo de adaptação para total conformidade.
+
+**- Proteção de dados de pagamento:** Sim, todos os dados de pagamentos são  criptografados e protegidos conforme os regulamentos.
+
+**- Auditorias regulares de segurança:** Não, as auditorias são realizadas de forma esporádica, sem uma regularidade definida.
