@@ -16,13 +16,8 @@ Sua tarefa é revisar o escopo, as metas e o relatório de avaliação de risco 
 <font style="vertical-align: inherit;">Relatório de Escopo, Metas e Avaliação de Riscos</font>
 </font>
 </a>
-
-
-
-
-
 </li>
-
+<h2> Listas de verificação </h2>
 
 
 
