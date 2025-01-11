@@ -8,7 +8,7 @@ O gerente de TI começa implementando o National Institute of Standards and Tech
 Sua tarefa é revisar o escopo, as metas e o relatório de avaliação de risco do gerente de TI. Em seguida, execute uma auditoria interna completando uma lista de verificação de controles e conformidade.
 <h2>Relatório</h2>
 <li> 
-<a href="https://github.com/Fp-eng/Auditoria-de-Seguran-a/blob/main/Relat%C3%B3rio%20de%20Escopo%2C%20Metas%20e%20Avalia%C3%A7%C3%A3o%20de%20Riscos%20da%20Botium%20Toys">
+/Fp-eng/Auditoria-de-Seguran-a/blob/main/Relat%C3%B3rio%20de%20Escopo%2C%20Metas%20e%20Avalia%C3%A7%C3%A3o%20de%20Riscos%20da%20Botium%20Toys">
   
 <font style="vertical-align: inherit;">
 <font style="vertical-align: inherit;">Relatório de Escopo, Metas e Avaliação de Riscos</font>
